@@ -7,7 +7,7 @@ spring:
 
 token:
   expiration_time: 86400000
-  secret: my_token_dev
+  secret: '{cipher}AQB60mRnv+wYKW8f9drMF7n80s0dsRc/LmcVgK5D5o7L6khKK/AMzjTsX3aVATezViZMP9d04BkSp8e/V+SIU0oILMJOEaC9LxSBvKWEX/Osy8lIBMegjXgaukY5U5qewES9qkknE3tAaiHtfb9eG5A9/W+FwtNrq4Vb4MCQbrPnJ6ELLwiCOcWq9VtOwvMaCr7YT+dgZ4L2oYTZ2eQoO+L7ckAh0ec6UeTrF/aM0iLZPAukwBI7djBnOOjrdUqEWr5bCOlP1rgw4TWYuZ9TSGZ9R4ONQxzsrq7eYnr6fW4G8iLYorwKSQqKtX8RtIxpsXAy9fOqe5ENRV0xnEgrb1S7qEfCHji6PKyNpYLFxKLFhMZf5RtrbgGLxMOq9UKQGPCRlSeYzxwK5qFotn584q2UlD/ioArIvv7Qy0152I5Mcg=='
 
 gateway:
   ip: 192.168.50.129
